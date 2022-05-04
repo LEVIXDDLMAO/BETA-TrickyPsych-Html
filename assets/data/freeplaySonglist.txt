@@ -1,5 +1,1 @@
 Tutorial:gf:0xFF9271FD
-Bopeebo:dad:0xFF9271FD
-Fresh:mom:0xFF9271FD
-Dad-battle:pico:0xFF9271FD
-Spookeez:spooky:0xFF9271FD
